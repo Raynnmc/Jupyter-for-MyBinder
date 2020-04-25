@@ -2,7 +2,9 @@ dependencies:
   - python = 3
   - pip:
     - ipykernel
-    - sympy
+    - scipy
     - numpy
+    - sympy
     - matplotlib
+    - pandas
     - os
