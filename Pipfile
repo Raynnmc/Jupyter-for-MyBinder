@@ -10,6 +10,9 @@ numpy = "*"
 sympy = "*"
 matplotlib = "*"
 pandas = "*"
+openpyxl = "*"
+opencv-contrib-python = "*"
+python-docx = "*"
 
 [dev-packages]
 
