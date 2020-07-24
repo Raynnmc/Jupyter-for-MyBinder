@@ -9,14 +9,12 @@ Currently except for Python 3 itself, following libraries are also included in t
 - ipykernel
 - matplotlib
 - numpy
-- keras
 - opencv-contrib-python
 - openpyxl
 - pandas
-- pyqt5
 - python-docx
 - scipy
 - scikit-learn
 - sympy
-- tensorflow
-- vtk
+- torch
+- torchvision
