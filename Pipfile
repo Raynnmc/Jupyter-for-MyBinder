@@ -4,15 +4,21 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+beautifulsoup4 = "*"
+flask = "*"
 ipykernel = "*"
-scipy = "*"
-numpy = "*"
-sympy = "*"
 matplotlib = "*"
-pandas = "*"
-openpyxl = "*"
+numpy = "*"
+keras = "*"
 opencv-contrib-python = "*"
+openpyxl = "*"
+pandas = "*"
+pyqt5 = "*"
 python-docx = "*"
+scipy = "*"
+scikit-learn = "*"
+sympy = "*"
+tensorflow = "*"
 
 [dev-packages]
 
