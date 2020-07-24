@@ -10,6 +10,7 @@ Currently except for Python 3 itself, following libraries are also included in t
 - matplotlib
 - numpy
 - keras
+- mkl
 - opencv-contrib-python
 - openpyxl
 - pandas
