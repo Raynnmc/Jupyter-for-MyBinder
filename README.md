@@ -19,3 +19,4 @@ Currently except for Python 3 itself, following libraries are also included in t
 - scikit-learn
 - sympy
 - tensorflow
+- vtk
