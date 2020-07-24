@@ -19,6 +19,7 @@ scipy = "*"
 scikit-learn = "*"
 sympy = "*"
 tensorflow = "*"
+vtk = "*"
 
 [dev-packages]
 
