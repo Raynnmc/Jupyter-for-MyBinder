@@ -16,4 +16,4 @@ dependencies:
     - scikit-learn
     - sympy
     - tensorflow
-    
+    - vtk
